@@ -29,7 +29,6 @@ h1, h2 {
 }
 .loading h1, .loading h2 {
   margin-top: 0px;
-  opacity: 0;  
 }
 .gears {
   position: relative;
